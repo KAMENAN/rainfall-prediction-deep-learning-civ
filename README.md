@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1216229123.svg)](https://doi.org/10.5281/zenodo.19669874)
 # Intelligent daily rainfall prediction for early warning
 ### Using Deep Learning and Satellite Data (Ivory Coast)
 ## Overview
